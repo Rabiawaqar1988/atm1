@@ -1,10 +1,10 @@
 {
   "name": "raz-63",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "atm machine",
   "main": "index.js",
   "type": "module",
-  "bin": "atm.js",
+  "bin": "atm1.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
